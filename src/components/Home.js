@@ -1,5 +1,6 @@
 import React from 'react';
-import Header from './Header'
+import Header from './Header';
+import Footer from './Footer';
 
 const Home = () => {
 
@@ -8,6 +9,7 @@ const Home = () => {
       <div className="p-4 bg-white justify-center">
         
           <Header />
+          <Footer />
         </div>
         
     </main>
