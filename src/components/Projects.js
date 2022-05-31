@@ -10,7 +10,7 @@ function Projects() {
     <Container fluid className='bg-dark'>
 
         <Project 
-            imgSrc= "WorkingMomAssistant.JPG" 
+            imgSrc= "WorkingMomAssistant.png" 
             title="Working Mom Assistant" 
             desc="The working mom assistant is a web application developed to help working moms achieve work life balance and 
             reach their maximum potential in life. I provides features to organize tasks and measure effort spent on 
