@@ -10,7 +10,7 @@ function Projects() {
     <Container fluid className='bg-dark'>
 
         <Project 
-            imgSrc= "WorkingMomAssistant.png" 
+            imgSrc= "{process.env.PUBLIC_URL + WorkingMomAssistant.png" 
             title="Working Mom Assistant" 
             desc="The working mom assistant is a web application developed to help working moms achieve work life balance and 
             reach their maximum potential in life. I provides features to organize tasks and measure effort spent on 
@@ -20,7 +20,7 @@ function Projects() {
         />
 
         <Project 
-            imgSrc= "ReVamp.png" 
+            imgSrc= "{process.env.PUBLIC_URL + ReVamp.png" 
             title="ReVamp" 
             desc="REvamp is a web application designed to help empower people to repair, restore and improve the items 
             in our lives that society has told us have become disposable.
@@ -31,7 +31,7 @@ function Projects() {
         />
 
         <Project 
-            imgSrc= "DateNight.png" 
+            imgSrc= "{process.env.PUBLIC_URL + DateNight.png" 
             title="Date Night" 
             desc="Date Night is an app that helps a nervous person to schedule his date and get a direction,
             knows the weather on that date, clothes, drinks, joke and quote suggestions." 
@@ -40,7 +40,7 @@ function Projects() {
         />
         
         <Project 
-            imgSrc= "WeatherDashboard.png" 
+            imgSrc= "{process.env.PUBLIC_URL + WeatherDashboard.png" 
             title="Weather Dashboard" 
             desc="Weather Dashboard is a web application that
             provides weather search utility that displays weather data information of the required city 
@@ -53,7 +53,7 @@ function Projects() {
         />
         
         <Project 
-            imgSrc= "JSQuiz.png" 
+            imgSrc= "{process.env.PUBLIC_URL + JSQuiz.png" 
             title="Javascript Quiz" 
             desc="This is a javascript quiz to help better understand javascript concepts and syntax. 
             The quiz is timed and provides the option to store score at the end as well as displaying previously stored scores." 
@@ -62,7 +62,7 @@ function Projects() {
         />
         
         <Project 
-            imgSrc= "PWATextEditor.png" 
+            imgSrc= "{process.env.PUBLIC_URL + PWATextEditor.png" 
             title="PWA Text Editor" 
             desc="The application is a Node.js and express application that allows the user to add and delete notes. 
             Express.js is used for back end, while notes' data is saved and retreived from a JSON file." 
