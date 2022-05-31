@@ -5,7 +5,7 @@ function Resume() {
 
   return (
 
-            <embed src="MonaMahmoudResume.pdf" className='w-100 h-100 height' />
+            <embed src= {process.env.PUBLIC_URL + "/MonaMahmoudResume.pdf"} className='w-100 h-100 height' />
     
   );
 }
