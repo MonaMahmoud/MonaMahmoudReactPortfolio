@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AACA,KAEE,QAAS,CACT,SACF,CAEA,SACE,qBACF,CAMA,MACE,cACF,CAEA,QACE,gBACF","file":"main.63564920.chunk.css","sourcesContent":["\nbody {\n  \n  margin: 0;\n  padding: 0;\n}\n\n.bg-teal {\n  background-color: teal;\n}\n\n\n\n\n\n.logo {\n  max-width: 50px;\n}\n\n.height {\n  min-height: 100vh;\n}"]}

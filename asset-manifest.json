@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MonaMahmoud/MonaMahmoudReactPortfolio/static/css/main.63564920.chunk.css",
+    "main.js": "/MonaMahmoud/MonaMahmoudReactPortfolio/static/js/main.85f1bf15.chunk.js",
+    "main.js.map": "/MonaMahmoud/MonaMahmoudReactPortfolio/static/js/main.85f1bf15.chunk.js.map",
+    "runtime-main.js": "/MonaMahmoud/MonaMahmoudReactPortfolio/static/js/runtime-main.0812bba4.js",
+    "runtime-main.js.map": "/MonaMahmoud/MonaMahmoudReactPortfolio/static/js/runtime-main.0812bba4.js.map",
+    "static/js/2.bc6a10c3.chunk.js": "/MonaMahmoud/MonaMahmoudReactPortfolio/static/js/2.bc6a10c3.chunk.js",
+    "static/js/2.bc6a10c3.chunk.js.map": "/MonaMahmoud/MonaMahmoudReactPortfolio/static/js/2.bc6a10c3.chunk.js.map",
+    "index.html": "/MonaMahmoud/MonaMahmoudReactPortfolio/index.html",
+    "static/css/main.63564920.chunk.css.map": "/MonaMahmoud/MonaMahmoudReactPortfolio/static/css/main.63564920.chunk.css.map",
+    "static/js/2.bc6a10c3.chunk.js.LICENSE.txt": "/MonaMahmoud/MonaMahmoudReactPortfolio/static/js/2.bc6a10c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0812bba4.js",
+    "static/js/2.bc6a10c3.chunk.js",
+    "static/css/main.63564920.chunk.css",
+    "static/js/main.85f1bf15.chunk.js"
+  ]
+}
