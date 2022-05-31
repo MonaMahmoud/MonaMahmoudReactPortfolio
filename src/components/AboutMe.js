@@ -12,7 +12,7 @@ function AboutMe() {
     <Container fluid className='bg-dark height'>
         <Row className="justify-content-center">
             <Col>
-            <Image src="MonaMahmoud.png" roundedCircle thumbnail className='mx-auto d-block w-50 bg-dark mt-5' ></Image>
+            <Image src= {process.env.PUBLIC_URL + '/MonaMahmoud.png'}  roundedCircle thumbnail className='mx-auto d-block w-50 bg-dark mt-5' ></Image>
             </Col>
             <Col>
             <div className='text-white w-100 h4 m-0 mt-3 mb-3 lh-lg'> I'm Mona Mahmoud. 
