@@ -1,11 +1,6 @@
-import Nav, { Col, Container, Row } from 'react-bootstrap';
+import { Col, Container, Row } from 'react-bootstrap';
 import Image from 'react-bootstrap/Image';
 
-import AboutMe from './AboutMe';
-import Projects from './Projects';
-import Resume from './Resume';
-import Contact from './Contact';
-import { Tabs, Tab } from 'react-bootstrap';
 
 const Footer = ()=>{
     return (
@@ -24,7 +19,7 @@ const Footer = ()=>{
                     <a href='https://github.com/MonaMahmoud' target="_blank" className='h2 link-warning text-decoration-none'>
                 <Image src="github.png"  className=' logo m-5' ></Image>
                     </a>
-                    <a href='mailto:monamohamedfahmy@gmail.com' target="_blank" className='h2 link-warning text-decoration-none'>
+                    <a href='mailto:monamohamedfahmy@gmail.com' target="_blank" className='h2 link-warning text-decoration-none '>
                 <Image src="email.png"  className=' logo m-5' ></Image>
                     </a>
 

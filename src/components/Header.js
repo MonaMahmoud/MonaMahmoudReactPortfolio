@@ -1,4 +1,3 @@
-import Nav from 'react-bootstrap';
 import AboutMe from './AboutMe';
 import Projects from './Projects';
 import Resume from './Resume';
@@ -12,7 +11,7 @@ const Header = ()=>{
             <Tab eventKey="home" title="Who am I?" className='text-danger'>
                 <AboutMe />
             </Tab>
-            <Tab eventKey="projects" title="My Work">
+            <Tab eventKey="projects" title="Portfolio">
                 <Projects />
             </Tab>
             <Tab eventKey="profile" title="Resume">

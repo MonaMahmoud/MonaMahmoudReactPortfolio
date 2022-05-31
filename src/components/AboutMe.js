@@ -1,4 +1,3 @@
-//import React, { useState } from 'react';
 import Image from 'react-bootstrap/Image';
 import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';

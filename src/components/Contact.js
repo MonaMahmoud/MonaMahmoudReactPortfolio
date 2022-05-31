@@ -1,9 +1,8 @@
-//import React, { useState } from 'react';
 import Image from 'react-bootstrap/Image';
 import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
-
+import ContactForm from './ContactForm';
 
 function Contact() {
 
@@ -44,8 +43,13 @@ function Contact() {
             <a href='mailto:monamohamedfahmy@gmail.com' target="_blank" className='h2 link-warning text-decoration-none'>monamohamedfahmy@gmail.com</a>
             </Col>
         </Row>
+        <Row>
+        <ContactForm/>
+
+        </Row>
     </Container>
     
+
   );
 }
 
